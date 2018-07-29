@@ -10,6 +10,8 @@
             "src/idevice/info.c",
             "src/idevice/backup2.h",
             "src/idevice/backup2.c",
+            "src/idevice/pair.h",
+            "src/idevice/pair.c",
             "src/common/endianness.h",
             "src/common/common_binding.h",
             "src/common/common_binding.c",
